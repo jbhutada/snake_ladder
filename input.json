@@ -1,0 +1,17 @@
+{
+    "Number of players": 2,
+    "Board Size": 10,
+    "Number of Snakes": 9,
+    "Snakes Positions": [[62, 5], [33, 6], [49, 9], [88, 16], [41, 20], [56, 53], [98, 64], [93, 73], [95, 75]],
+    "Number of Ladders": 8,
+    "Ladder Positions": [[2, 37], [27, 46], [10, 32], [51, 68], [61, 79], [65, 84], [71, 91], [81, 100]],
+    "Number of Crocodiles": 2, 
+    "Crocodile Positions": [59, 72], 
+    "Crocodile Length": 5,
+    "Number of Mines": 3, 
+    "Mine Positions": [62, 80, 12],
+    "Mine Duration": 3, 
+    "Number of Dies": 2,
+    "Movement Strategy": "SUM",
+    "Player Names": [["Gaurav", 1], ["Sagar", 1]]
+}
